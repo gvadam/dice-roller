@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="number_of_faces">Number of faces:</string>
+    <string name="decrease_number_of_faces_button">decrease number of faces button</string>
+    <string name="increase_number_of_faces_button">increase number of faces button</string>
+    <string name="number_of_dice">Number of dice:</string>
+    <string name="decrease_number_of_dice_button">decrease number of dice button</string>
+    <string name="increase_number_of_dice_button">increase number of dice button</string>
+    <string name="roll">Roll</string>
+    <string name="clear">Clear</string>
+    <string name="results_section">results section</string>
+</resources>

@@ -121,7 +121,7 @@
         android:elevation="10dp"
         android:fontFamily="@font/source_code_pro_medium"
         android:text="@string/roll"
-        android:textSize="20sp"
+        android:textSize="22sp"
         app:cornerRadius="20dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/increase_dice_button" />
@@ -160,7 +160,7 @@
         android:elevation="10dp"
         android:fontFamily="@font/source_code_pro_medium"
         android:text="@string/clear"
-        android:textSize="20sp"
+        android:textSize="22sp"
         app:cornerRadius="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />

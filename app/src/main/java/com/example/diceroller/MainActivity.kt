@@ -61,7 +61,7 @@ class MainActivity : AppCompatActivity() {
             numOfDice.text = dice.toString()
         }
         decreaseDiceButton.setOnClickListener{
-            dice = changeFace(dice, true, maxDiceValue, minDiceValue)
+            dice = changeFace(dice, false, maxDiceValue, minDiceValue)
             numOfDice.text = dice.toString()
         }
     }

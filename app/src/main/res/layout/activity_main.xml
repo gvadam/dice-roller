@@ -67,7 +67,7 @@
         android:fontFamily="@font/source_code_pro_medium"
         android:gravity="center"
         android:text="@string/number_of_dice"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textSize="23sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
